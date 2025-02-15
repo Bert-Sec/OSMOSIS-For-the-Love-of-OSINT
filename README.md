@@ -1,4 +1,4 @@
-# osmosis2025
+# Osmosis Institute - For the Love of OSINT!
 
 ## Challenge List
 
